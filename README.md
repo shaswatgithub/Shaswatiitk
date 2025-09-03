@@ -1,5 +1,5 @@
 # Shaswatiitk
-![logo]([https://github.com/shaswatgithub/Shaswatiitk/blob/main/gif.gif](https://github.com/shaswatgithub/Shaswatiitk/blob/main/Screenshot%202025-08-10%20052820.png))
+![logo]([https://github.com/shaswatgithub/Shaswatiitk/blob/main/Screenshot%202025-08-10%20052820.png])
 <h1 align="center">Hi 👋, I'm Shaswat</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India</h3>
 

@@ -1,4 +1,5 @@
 # Shaswatiitk
+![logo](https://github.com/shaswatgithub/Shaswatiitk/blob/main/gif.gif)
 <h1 align="center">Hi 👋, I'm Shaswat</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India</h3>
 
